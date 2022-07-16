@@ -17,7 +17,9 @@ An application where you can create tasks. Refresh them. View the history of com
 
    ```
    git clone https://github.com/alexrysukhin/todo-app.git
+   ```
 
+   ```
    cd todo-app
    ```
 
@@ -26,13 +28,21 @@ An application where you can create tasks. Refresh them. View the history of com
 3. ### Enter commands into terminal
    ```
    cd backEnd
+   ```
+   ```
    npm install
+   ```
+   ```
    node app.js
    ```
 4. ### Open a new terminal window in this project. And enter the commands:
    ```
    cd frontEnd
+   ```
+   ```
    npm install
+   ```
+   ```
    npm start
    ```
 
@@ -40,6 +50,6 @@ An application where you can create tasks. Refresh them. View the history of com
 
 <br/>
 
-plan tasks...
+_plan tasks...
 write tasks...
-complete tasks...)
+complete tasks...)_
